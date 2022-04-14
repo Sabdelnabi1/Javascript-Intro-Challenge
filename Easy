@@ -1,5 +1,0 @@
-//Problem two
-var name1 = "John";
-var name2 = "Melissa";
-
-console.log("The name " + name1 + " is shorter than " + name2 + " by 3 characters.")
